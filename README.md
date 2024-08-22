@@ -27,14 +27,15 @@
 
 ## 推荐模型专项（包含gate专项，实在是拆不开了，大家都用gate）
 ### moe : Adaptive Mixtures of Local Experts
-[链接](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)
+必看，万恶之源，通过gate来解决多个expert的融合问题。[链接](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)
 ### mmoe : Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts
-[链接](https://dl.acm.org/doi/abs/10.1145/3219819.3220007)
+进一步，把moe推广到多任务。 [链接](https://dl.acm.org/doi/abs/10.1145/3219819.3220007)
 ### ple : Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations
-[链接](https://dl.acm.org/doi/10.1145/3383313.3412236)
+继续，尝试去解决跷跷板问题。[链接](https://dl.acm.org/doi/10.1145/3383313.3412236)
 ### pepnet : PEPNet: Parameter and Embedding Personalized Network for Infusing with Personalized Prior Information
-[链接](https://arxiv.org/pdf/2302.01115.pdf)
+gate is all you need 。。。 [链接](https://arxiv.org/pdf/2302.01115.pdf)
 ### poso : POSO: Personalized Cold Start Modules for Large-scale Recommender Systems
-[链接](https://arxiv.org/abs/2108.04690)
+同上。。。[链接](https://arxiv.org/abs/2108.04690)
+
 
 持续更新，后续有时间我会把为什么能拿到收益写出来
