@@ -37,5 +37,14 @@ gate is all you need 。。。 [链接](https://arxiv.org/pdf/2302.01115.pdf)
 ### poso : POSO: Personalized Cold Start Modules for Large-scale Recommender Systems
 同上。。。[链接](https://arxiv.org/abs/2108.04690)
 
+## 推荐基础知识
+
+### 指标
+#### 蛤老师文档：https://arxiv.org/pdf/2308.01204.pdf
+
+### 实验平台
+#### 快手DID : https://en.wikipedia.org/wiki/Difference_in_differences
+#### 微软调平 : The Anatomy of a Large-Scale Online Experimentation Platform
+#### CUPED : Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data
 
 持续更新，后续有时间我会把为什么能拿到收益写出来
