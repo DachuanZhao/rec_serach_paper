@@ -4,6 +4,8 @@
 ## 召回专项：
 ### Deep Neural Networks for YouTube Recommendations
 提出 softmax loss , 必看。 [链接](https://research.google.com/pubs/archive/45530.pdf)
+### Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations
+提出高热样本在负样本内要打压一下，保持等概率的当负样本。[链接](https://research.google/pubs/sampling-bias-corrected-neural-modeling-for-large-corpus-item-recommendations/) 。附其在NLP的原始paper。[链接](https://arxiv.org/abs/1412.2007)
 ### Matrix factorization techniques for recommender systems
 经典算法。
 ### ItemCf : Item-Based Collaborative Filtering Recommendation Algorithms 
@@ -12,6 +14,8 @@
 经典算法，必看。
 ### swing : Large Scale Product Graph Construction for Recommendation in E-commerce
 经典算法，必看。 [链接](https://arxiv.org/pdf/2010.05525)
+### Mind : Multi-Interest Network with Dynamic Routing for Recommendation at Tmall
+经典算法mind，必看。[链接](https://arxiv.org/abs/1904.08030).附胶囊网络paper，[Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 
 ## attention专项：
 ### Neural Machine Translation by Jointly Learning to Align and Translate
